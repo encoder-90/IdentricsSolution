@@ -1,0 +1,568 @@
+,name,sentence_num
+0,James Joyce,0
+1,Betty Byrne,2
+5,Charles,13
+6,Dante,13
+7,Charles,14
+8,Dante,14
+9,Dante,15
+10,Michael Davitt,16
+11,Dante,17
+12,Eileen,21
+13,Dante,24
+14,Rody Kickham,32
+15,Rody Kickham,33
+16,Nasty Roche,33
+17,Rody Kickham,34
+18,Nasty Roche,35
+19,Stephen Dedalus,38
+20,Nasty Roche,39
+21,Nasty Roche,40
+22,Nasty Roche,42
+23,Jack Lawton,66
+24,Hamilton Rowan,73
+25,Wolsey,80
+26,Dante,87
+27,Dante,89
+28,Arnall,91
+29,Dante,91
+30,Charles,91
+31,Dante,91
+32,Dante,92
+33,Rody Kickham,97
+34,Simon Moonan,99
+35,Simon Moonan,100
+36,Simon Moonan,103
+37,Arnall,117
+38,Arnall,123
+39,Jack Lawton,124
+40,Arnall,124
+41,Jack Lawton,129
+42,Jack Lawton,131
+43,Jack Lawton,132
+44,Arnall,133
+45,Nasty Roche,148
+46,Jimmy Magee,172
+47,Simon Moonan,176
+48,Tullabeg,177
+49,Wells,178
+50,Wells,192
+51,Michael Davitt,208
+52,Stephen Dedalus,215
+54,Stephen Dedalus,215
+55,Dante,233
+56,Dante,236
+57,Casey,236
+58,Charles,236
+59,Dante,291
+60,Charles,291
+61,Wells,382
+62,Leicester Abbey,395
+63,Wolsey,396
+64,Michael,412
+65,Michael,421
+66,Michael,423
+67,Michael,423
+68,Michael,431
+69,Michael,432
+70,Michael,436
+71,Michael,441
+72,Michael,446
+73,Little,461
+74,Brigid,469
+76,Michael,484
+77,Michael,488
+78,Athy,489
+79,Michael,489
+80,Michael,489
+81,Dedalus,495
+82,Athy,495
+83,Arnall,531
+84,Michael,533
+85,Michael,551
+86,Dante,559
+87,Charles,563
+88,Dante,563
+89,Casey,563
+90,Casey,565
+91,Casey,566
+92,Casey,567
+93,Casey,568
+94,Queen Victoria,568
+95,Casey,569
+96,John,571
+97,Dante,576
+98,Riordan,576
+99,Dante,577
+100,Casey,582
+101,Christopher,583
+102,Christy,586
+103,jack,588
+104,Casey,592
+105,Dedalus,596
+106,Riordan,598
+107,John,599
+108,Charles,600
+109,Ally Daly,607
+110,Charles,613
+111,Dedalus,616
+112,Riordan,616
+113,Riordan,620
+114,Dante,621
+115,Charles,622
+116,Simon,624
+117,John,625
+118,Charles,631
+119,Charles,632
+120,Casey,636
+121,Dante,638
+122,Dante,641
+123,Casey,643
+124,Dante,644
+125,Dante,649
+126,Dedalus,652
+127,Charles,653
+128,Dante,659
+129,Riordan,660
+130,Dedalus,660
+131,Dante,661
+132,Dante,663
+133,Casey,664
+134,Dante,666
+135,Dedalus,666
+136,Casey,667
+137,Dedalus,669
+138,Charles,672
+139,Dante,676
+140,Casey,678
+141,Riordan,680
+142,Charles,672
+143,Charles,695
+144,Casey,695
+145,Dedalus,696
+146,Dante,696
+147,Dante,711
+148,Billy,715
+149,Armagh,715
+150,Casey,717
+151,Dante,719
+153,Casey,729
+154,Dante,737
+155,Dedalus,740
+156,Charles,741
+157,Dedalus,744
+158,Dante,744
+159,Dante,744
+160,Casey,746
+161,John,747
+162,Casey,748
+163,Dante,750
+164,Dante,752
+165,John,753
+166,Dante,756
+167,Casey,759
+168,Casey,761
+169,John,761
+170,Dante,767
+171,Eileen,770
+172,Eileen,770
+173,Eileen,775
+174,Casey,779
+175,Casey,784
+176,John,793
+177,Casey,795
+179,John,797
+180,John,801
+181,Casey,803
+183,Charles,816
+184,Dante,817
+185,Kitty O’Shea,821
+186,Casey,821
+187,Casey,822
+188,Casey,824
+189,Dante,825
+190,Charles,830
+192,John,834
+193,Dante,839
+194,Casey,843
+195,Dante,846
+196,Casey,803
+197,Bishop Lanigan,853
+198,Dante,861
+199,Casey,861
+200,Dedalus,865
+201,Riordan,865
+202,Dante,867
+203,Casey,869
+204,John,871
+205,John,871
+206,Dante,874
+207,Casey,875
+208,Dante,882
+209,Charles,883
+210,Casey,883
+211,Dante,885
+212,Dedalus,886
+213,Dante,887
+214,Casey,892
+215,Cecil Thunder,905
+216,Wells,917
+217,Athy,953
+218,Athy,954
+219,Simon Moonan,954
+220,Athy,953
+221,Simon Moonan,963
+222,Athy,967
+223,Simon Moonan,973
+224,Eileen,976
+225,Athy,995
+226,Cecil Thunder,999
+227,Barrett,1002
+228,Cecil Thunder,1004
+229,Simon Moonan,1010
+230,Athy,1010
+231,Corrigan,1013
+232,Athy,1013
+233,Cecil Thunder,905
+234,Gleeson,1017
+235,Simon Moonan,1019
+236,Athy,1022
+237,Athy,1034
+238,Lady Boyle,1043
+239,Cecil Thunder,1047
+240,Corrigan,1047
+241,Arnall,1076
+242,Arnall,1077
+243,Arnall,1078
+244,Jack Lawton,1079
+245,Jack Lawton,1079
+246,Arnall,1080
+247,Arnall,1084
+248,Arnall,1087
+249,Kneel,1087
+250,Arnall,1092
+251,Arnall,1093
+252,Arnall,1100
+253,Paddy Barrett,1100
+254,Arnall,1106
+255,Arnall,1119
+256,Arnall,1120
+257,Tom Furlong,1147
+258,Arnall,1158
+259,Arnall,1159
+260,Dedalus,1165
+261,Arnall,1206
+262,Arnall,1212
+263,Arnall,1216
+264,Arnall,1217
+265,Nasty Roche,1224
+266,Cecil Thunder,1230
+267,Nasty Roche,1224
+268,Cecil Thunder,1238
+269,Nasty Roche,1240
+270,Peter Parley,1252
+271,Peter Parley,1253
+272,Peter Parley,1254
+273,Jimmy Magee,1260
+274,Corrigan,1260
+275,Corrigan,1261
+276,Corrigan,1262
+277,Ignatius Loyola,1291
+278,Francis Xavier,1291
+279,Lorenzo Ricci,1291
+280,Stanislaus Kostka,1291
+281,Aloysius Gonzago,1291
+282,Blessed John Berchmans,1291
+283,Peter Kenny,1291
+284,Hamilton Rowan,1293
+285,Arnall,1308
+286,Dolan,1313
+287,Dedalus,1315
+288,Dolan,1321
+289,Baldyhead Dolan,1355
+290,Dolan,1358
+291,Charles,1364
+292,Simon,1365
+293,Simon,1366
+294,Simon,1371
+295,Charles,1373
+296,Charles,1376
+297,Charles,1377
+298,Charles,1379
+299,Mike Flynn,1383
+300,Mike Flynn,1385
+301,Mike Flynn,1385
+302,Charles,1387
+303,Mike Flynn,1388
+304,Charles,1389
+305,Dundrum,1397
+307,Aubrey Mills,1407
+308,Mike Flynn,1416
+309,Charles,1442
+310,Charles,1448
+311,Charles,1453
+312,Josephine,1482
+313,Ellen,1486
+314,Josephine,1488
+315,Josephine,1489
+316,Eileen,1510
+317,Roderick Kickham,1523
+318,John Lawton,1523
+319,Anthony MacSwiney,1523
+320,L. D. S.,1528
+321,Dedalus,1534
+322,Dedalus,1538
+323,Micky Mud,1541
+324,Simon,1545
+325,Dedalus,1553
+326,Maurice,1553
+327,Maurice,1554
+328,Maurice,1555
+329,Maurice,1561
+330,Dolan,1564
+331,Simon,1574
+333,Dolan,1580
+334,Dolan,1580
+336,Tallon,1609
+337,Bertie Tallon,1611
+338,Wallis,1632
+339,Dedalus,1642
+340,Vincent Heron,1645
+341,Wallis,1663
+342,Jove,1669
+343,Wallis,1670
+344,Wallis,1671
+345,Stephen,1681
+346,Wallis,1688
+347,Marryat,1725
+348,Dedalus,1729
+349,Cardinal Newman,1733
+350,Cardinal Newman,1736
+351,Dedalus,1736
+352,Newman,1737
+353,Tennyson,1740
+354,Tennyson,1741
+355,Tennyson,1747
+356,Tyson,1761
+357,Alec Kafoozelum,1761
+358,Byron,1762
+359,Afraid,1777
+360,Byron,1785
+361,Doyle,1807
+362,Doyle,1811
+363,Doyle,1812
+364,Charles,1877
+365,Mick Lacy,1898
+366,Stephen,1925
+367,Harry Peard,1936
+368,Bob Dyas,1936
+369,Maurice Moriarty,1936
+370,Tom,1936
+371,Mick Lacy,1936
+372,Joey Corbet,1936
+373,Johnny Keevers,1936
+374,Simon,1963
+375,Stephen Dedalus,1975
+376,Simon Dedalus,1976
+377,Dante,1986
+378,Lee,2002
+379,Johnny Cashman,2004
+380,John Stephen Dedalus,2029
+381,Johnny Cashman,2033
+382,Johnny,2036
+383,Tim,2038
+384,Tom,2038
+385,Dedalus,2041
+386,Johnny,2050
+387,Simon,2051
+388,Henry Grattan,2070
+389,Charles Kendal Bushe,2070
+390,Dedalus,2082
+391,Willie,2147
+392,Bertie,2172
+393,James,2235
+394,Francis Xavier,2252
+395,Francis Xavier,2265
+396,Francis Xavier,2267
+397,Francis Xavier,2274
+398,Francis Xavier,2274
+399,Arnall,2289
+400,Michael,2291
+401,Francis Xavier,2293
+402,Francis,2312
+403,Francis Xavier,2316
+404,Michael,2369
+410,Michael,2464
+413,Vincent Heron,2590
+416,Augustine,2657
+420,Stephen Dedalus,2779
+429,Alphonsus Liguori,3100
+430,Thomas,3128
+431,Louis Veuillot,3163
+432,Stephen Dedalus,3233
+433,Foxy Campbell,3238
+436,Clontarf Chapel,3281
+437,Clontail Chapel,3281
+438,Dan Crosby,3282
+439,Newman,3294
+440,Hickey,3305
+441,Quaid,3306
+442,Keogh,3308
+443,Dwyer,3337
+444,Towser,3338
+445,Stephaneforos,3342
+446,Towser,3344
+447,Shuley,3354
+448,Connolly,3354
+449,Stephaneforos,3342
+450,Cripes,3375
+451,Daly,3456
+452,Gerhart Hauptmann,3493
+453,Guido Cavalcanti,3494
+454,Ibsen,3494
+455,Liffey,3494
+456,Ben Jonson,3494
+457,Aristotle,3495
+458,John Duncan,3534
+459,William Malcolm Inverarity,3534
+460,Davin,3538
+461,Davin,3542
+462,Michael Cusack,3542
+463,Mat Davin,3543
+464,Stevie,3551
+465,Fonsy Davin,3557
+466,Crokes,3559
+467,Ballyhoura,3564
+468,Stevie,3576
+469,Stevie,3579
+470,Wolfe Tone,3601
+471,Buck Egan,3605
+472,Lordin,3628
+474,Ben Jonson,3725
+475,Peter Byrne,3755
+476,Moynihan,3768
+477,W. S. Gilbert,3775
+478,Moynihan,3778
+479,F. W. Martino,3784
+480,Moynihan,3786
+481,Moynihan,3789
+482,Moynihan,3798
+485,Moynihan,3832
+486,Moynihan,3836
+487,Moynihan,3840
+488,Elizabethan English,3847
+489,Marx,3881
+490,Collins,3883
+491,John Anthony Collins,3886
+492,Moynihan,3889
+493,John Anthony,3889
+494,Lottie Collins,3889
+495,Moynihan,3890
+496,John Anthony Collins,3890
+497,Hackett,3935
+498,Davin,3959
+499,Jean-Jacques Rousseau,3960
+500,Davin,3993
+501,Stevie,3997
+502,Stevie,3999
+503,Davin,3999
+504,Davin,4001
+505,Fianna,4003
+506,Davin,4004
+507,Stevie,4007
+508,Davin,4010
+509,Davin,4015
+510,Davin,4019
+511,Moran,4021
+512,Stevie,4022
+513,Davin,4030
+514,Davin,4038
+515,Davin,4042
+516,Davin,4048
+517,Stevie,4052
+518,Davin,4052
+519,Stevie,4063
+520,Aristotle,4083
+521,Goggins,4088
+524,Plato,4175
+525,Patrick Dun,4204
+526,Thomas,4210
+527,Maundy,4225
+528,Donovan,4255
+529,Donovan,4260
+530,Donovan,4264
+531,Donovan,4265
+532,Donovan,4277
+534,Lynch,4299
+535,Shelley,4312
+536,Luigi Galvani,4313
+540,Moran,4454
+541,Moycullen,4469
+542,Cornelius Agrippa,4540
+543,Thoth,4543
+544,Oona,4551
+545,Dixon,4575
+546,Dixon,4577
+547,Dixon,4582
+548,Dixon,4583
+549,Dixon,4591
+550,Dixon,4594
+551,Walter Scott,4595
+552,Dixon,4598
+553,Scott,4600
+554,Walter Scott,4601
+555,Dixon,4619
+556,Dixon,4621
+557,Dixon,4625
+558,Dixon,4635
+559,Forster,4646
+560,Francis Forster,4649
+561,Clanbrassil,4649
+562,Baldwin,4657
+563,Dixon,4662
+564,Goggins,4663
+565,Goggins,4664
+566,Dixon,4666
+567,Goggins,4677
+568,Dixon,4702
+569,Dixon,4775
+570,Dixon,4789
+571,Goggins,4789
+572,Glynn,4789
+573,Moynihan,4790
+574,Glynn,4792
+575,Glynn,4793
+576,Glynn,4801
+577,Glynn,4803
+578,Glynn,4805
+579,Glynn,4811
+580,Saint Augustine,4815
+581,Dixon,4816
+582,Dixon,4817
+583,Dixon,4824
+584,Glynn,4826
+585,Roman,4831
+586,Dixon,4857
+587,Davin,4866
+588,Davin,4866
+590,Aloysius Gonzago,4986
+591,Suarez,4991
+592,Rosie,5033
+593,Rosie,5033
+594,Rosie first,5038
+595,Juan Mariana de Talavera,5091
+596,Elizabeth,5157
+599,Bruno,5203
+600,William Bond,5220
+601,William,5220
+602,William Ewart Gladstone,5223
+603,Dixon,5240
+604,Mooney,5253
+605,Met Davin,5262
+606,Tara,5265
+608,Davin,5269
+609,Davin,5270
+610,Lynch,5293
+611,Michael Robartes,5295
+612,John Alphonsus Mulrennan,5317
+613,Dante Alighieri,5343
